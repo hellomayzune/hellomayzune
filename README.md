@@ -22,10 +22,8 @@ Projects I have been involved in, with the GitHub repositories I have developed:
   - [SSOS: Sequential Surrogate-Optimisation Suite (Black-Box Capstone)](https://github.com/hellomayzune/Imperial-College-Capstone-Black-box-Optimisation)
   - [BBO Streamlit Dashboard](https://imperial-college-capstone-black-box-optimisation-jvpxnyteappsr.streamlit.app/)
 - **Collaboration**
-  - [OASIS: Overheating Assessment through Strategy Intervention Scenarios](https://github.com/hellomayzune/OASIS)
-  - [HAVEN: Human-centric Assessment of Vulnerability and Extreme-heat Navigation](https://github.com/hellomayzune/HAVEN)
-- **Personal Project**
-  - [CADENCE: Conflict Architecture Damage Estimation and Network Circularity Engine for Bhamo](https://github.com/hellomayzune/CADENCE)
+  - [OASIS: Overheating Assessment through Screening-Level Intervention Scenarios](https://github.com/hellomayzune/OASIS)
+  - [HAVEN: Human-centred Environmental Assessment of Vulnerability and Extreme-heat Navigation](https://github.com/hellomayzune/HAVEN)
 - **South Yorkshire Sustainability Centre Project WP 1.1**: [Development of a regional retrofit optimisation platform](https://www.sysustainabilitycentre.org/our-projects/development-of-a-regional-retrofit-optimisation-platform)
   - [HARVEST: Housing Archetype Retrofit, Ventilation, Environmental, Simulation, and Thermal Comfort](https://github.com/hellomayzune/UK-Housing-Archetypes-Retrofit-Performance), currently named as UK-Housing-Archetypes-Retrofit-Performance
   - [A-Rule-Based-Method-for-Classifying-Housing-Archetypes-](https://github.com/hellomayzune/A-Rule-Based-Method-for-Classifying-Housing-Archetypes-)
