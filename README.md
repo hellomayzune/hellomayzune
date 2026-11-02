@@ -16,14 +16,15 @@ Projects I have been involved in, with the GitHub repositories I have developed:
 
 - **CIBSE President's Award Study**
   - [SHINE: Spatially Heterogeneous Infrastructure and Net-Zero Evaluation](https://github.com/hellomayzune/SHINE)
-  - [STRATA: Spatio-Temporal Response And Thermal Algorithm for Data-Driven Multi-Zone Indoor Microclimates](https://github.com/hellomayzune/STRATA)
+  - [STRATA: Simulation-free Thermal Response and Temporal Analysis](https://github.com/hellomayzune/STRATA)
   - [BEACON: Behavioural Environment and Climate Analysis for Occupant-Driven Networks](https://github.com/hellomayzune/BEACON)
+  - LANTERN: Local Allocation of Network headroom for Thermal Electrification and Retrofit in Neighbourhoods
 - **Imperial College London Professional Certificate in ML/AI**
   - [SSOS: Sequential Surrogate-Optimisation Suite (Black-Box Capstone)](https://github.com/hellomayzune/Imperial-College-Capstone-Black-box-Optimisation)
   - [BBO Streamlit Dashboard](https://imperial-college-capstone-black-box-optimisation-jvpxnyteappsr.streamlit.app/)
 - **Collaboration**
   - [OASIS: Overheating Assessment through Screening-Level Intervention Scenarios](https://github.com/hellomayzune/OASIS)
-  - [HAVEN: Human-centred Environmental Assessment of Vulnerability and Extreme-heat Navigation](https://github.com/hellomayzune/HAVEN)
+  - [HAVEN: HAVEN: Human-centred Assessment of Vulnerability to Environmental heat at Night](https://github.com/hellomayzune/HAVEN)
 - **South Yorkshire Sustainability Centre Project WP 1.1**: [Development of a regional retrofit optimisation platform](https://www.sysustainabilitycentre.org/our-projects/development-of-a-regional-retrofit-optimisation-platform)
   - [HARVEST: Housing Archetype Retrofit, Ventilation, Environmental, Simulation, and Thermal Comfort](https://github.com/hellomayzune/UK-Housing-Archetypes-Retrofit-Performance), currently named as UK-Housing-Archetypes-Retrofit-Performance
   - [A-Rule-Based-Method-for-Classifying-Housing-Archetypes-](https://github.com/hellomayzune/A-Rule-Based-Method-for-Classifying-Housing-Archetypes-)
